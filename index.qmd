@@ -1,26 +1,26 @@
 ---
-title: "Hi, I'm [Your Name Here]"
+title: "Hi, I'm Anthony Fitch"
 ---
 
 
 ::: {.columns}
 ::: {.column width="30%"}
-![](https://placehold.co/530x530?text=images/headshot.jpg){width=100% style="border-radius: 50%;"}
+![](images/headshot.jpg){width=100% style="border-radius: 50%;"}
 :::
 ::: {.column width="70%" style="padding-left: 3rem;"}
-I'm a [your profession or area of focus]. I specialize in transforming complex information into clear, engaging, and actionable insights.
+I'm an Engineer that works for Southern California Edison in the Distribution Department. I specialize in transforming complex information into clear, engaging, and actionable insights. Through Capital Projects such as but not limited to new Electrical Substations, New Electrical Feeder Circuits rated from 2,400V to 33,000V. I also communicate and work with customers, cities, city planners, project managers, Edison planners, Edison operations etc. its an endless list of people with whom I coordinate and do work with daily. I Plan to work my way into management and move up the management chain, to implement and make true change within the organization. Once I am older I plan on going back to school and teaching at a local community college as a professor until I retire for good. 
 :::
 :::
 
 ## About Me
 
-I hold a <span class="highlight">[Your Degree or Current Program]</span> from [Your Institution].
+I hold a <span class="highlight">Bachelors Degree in Mechanical Engineering</span> from Cal Poly Pomona.I am also pursuing a <span class="highlight">Masters Degree in Business Administration</span> from Cal Poly Pomona where I will graduate in Spring 2026
 
 
 
 ## Let's Connect
 
-You can [email me](mailto:you@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
+You can [email me](mailto:anthonyfitch95@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/anthony-fitch-58138a149?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0SwIHHnjTEy94ol1wUlLKQ%3D%3D).
 
 ---
 

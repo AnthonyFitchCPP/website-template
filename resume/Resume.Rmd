@@ -1,12 +1,12 @@
 ---
-name: First
-surname: Last
-position: "Your Role or Career Focus"
-phone: +1 (XXX) XXX-XXXX
-www: yourwebsite.com
-email: "you@example.com"
-github: your-github
-linkedin: your-linkedin
+name: Anthony
+surname: Fitch
+position: "Electrical Distribution Engineer"
+phone: +1 (626) 629-9557
+www: ""
+email: ""
+github: ""
+linkedin: "linkedin.com/in/anthony-fitch-58138a149"
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
   vitae::latexcv:
@@ -37,20 +37,36 @@ library(tibble)
 
 # Professional Summary
 
-Motivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.
+Electrical Distribution Engineer with hands-on experience in utility operations, engineering analysis, and grid infrastructure development. Proven ability to lead technical studies, provide cross-departmental support, and improve power system performance. Passionate about innovation, reliability, and professional growth.
 
 # Technical Skills
 
-- **Programming Languages:** R, Python, SQL, etc.  
-- **Web Technologies:** HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.
+Software & Tools: Microsoft Excel (Pivot Tables), Microsoft Access, Microsoft Visio, Tableau 10
+
+Engineering Applications: CYME Power Engineering Software
+
+Core Competencies:
+
+Distribution equipment and systems
+
+Technical research and objective analysis
+
+Engineering studies and reporting
+
+Communication and presentation skills
+
+Innovation and technology adoption
+
+Power system analysis
 
 # Education
 
 ```{r}
 tribble(
   ~ Degree, ~ Year, ~ College, ~ Institution,
-  "Master of [Your Field]", "20XX – Expected Graduation 20XX", "[Your School or Department]", "[Your University]",
-  "Bachelor of [Your Field]", "20XX – 20XX", "[Your School or Department]", "[Your University]"
+  "Masters of Business Administration", "2023 – 2026", "", "California State Polytechnic University, Pomona",
+  "Bachelor of Science in Mechanical Engineering", "2018 – 2021", "", "California State Polytechnic University, Pomona",
+  "Liberal Arts, Math & Science", "2013 – 2018", "", "Citrus College, Glendora"
 ) %>%
   detailed_entries(Degree, Year, College, Institution)
 ```
@@ -61,24 +77,29 @@ tribble(
 tribble(
   ~ Years, ~ Company, ~ Duties, ~ Title,
 
-  "Month YYYY – Month YYYY", "Company or Organization Name",
+  "Dec 2022 – Present", "Southern California Edison",
   list(
-    "Summarize responsibility or achievement \\#1.",
-    "Highlight tools, technologies, or methods used.",
-    "Mention metrics, goals, or impact if possible.",
-    "Add communication or leadership responsibilities here."
+    "Provide technical support to internal and external customers as a subject matter expert on the distribution system.",
+    "Lead the development, interpretation, and application of engineering standards and designs.",
+    "Provided troubleshooting expertise for complex electrical distribution problems."
   ),
-  "Job Title",
+  "Electrical Distribution Engineer II",
 
-  "Month YYYY – Month YYYY", "Another Company or Team",
+  "June 2021 – Dec 2022", "Southern California Edison",
   list(
-    "Led a project or team focused on [insert focus].",
-    "Collaborated cross-functionally with [departments/roles].",
-    "Managed content, campaigns, or dashboards.",
-    "Contributed to strategic planning or reporting."
+    "Developed numerous 12kV distribution feeder circuits and capital projects for load growth and resiliency.",
+    "Updated aged infrastructure and enhanced grid automation and reliability.",
+    "Performed short circuit, arc flash, load flow, duct bank heating, and harmonic analysis.",
+    "Supported Planning, Troublemen, Operations, Automation, and Customer Support teams."
   ),
-  "Job Title"
+  "Electrical Distribution Engineer I",
 
+  "July 2020 – June 2021", "Southern California Edison",
+  list(
+    "Provided support to distribution engineering team with capital projects and feeder voltage analysis.",
+    "Performed short circuit duty analysis and other technical studies."
+  ),
+  "Distribution Engineering Intern"
 ) %>%
   detailed_entries(
     what = Title,

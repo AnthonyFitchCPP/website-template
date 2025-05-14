@@ -1,0 +1,17 @@
+{
+  "hash": "1dacc36b4ee951c80f77f066f5a3b945",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\nname: Anthony\nsurname: Fitch\nposition: \"Electrical Distribution Engineer\"\nphone: +1 (626) 629-9557\nwww: \"\"\nemail: \"\"\ngithub: \"\"\nlinkedin: \"linkedin.com/in/anthony-fitch-58138a149\"\ndate: \"May 2025\"\noutput: \n  vitae::latexcv:\n    theme: classic\nheader-includes:\n   - \\usepackage{enumitem}\n   - \\setlist[itemize]{nosep, left=0pt}\n   - \\setlist[enumerate]{nosep, left=0pt}\n---\n\n\n\n\n\n\n# Professional Summary\n\nElectrical Distribution Engineer with hands-on experience in utility operations, engineering analysis, and grid infrastructure development. Proven ability to lead technical studies, provide cross-departmental support, and improve power system performance. Passionate about innovation, reliability, and professional growth.\n\n# Technical Skills\n\nSoftware & Tools: Microsoft Excel (Pivot Tables), Microsoft Access, Microsoft Visio, Tableau 10\n\nEngineering Applications: CYME Power Engineering Software\n\nCore Competencies:\n\nDistribution equipment and systems\n\nTechnical research and objective analysis\n\nEngineering studies and reporting\n\nCommunication and presentation skills\n\nInnovation and technology adoption\n\nPower system analysis\n\n# Education\n\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n# A tibble: 3 × 5\n  what                                          when        with  where    why  \n  <chr>                                         <chr>       <chr> <chr>    <lis>\n1 Masters of Business Administration            2023 – 2026 \"\"    Califor… <chr>\n2 Bachelor of Science in Mechanical Engineering 2018 – 2021 \"\"    Califor… <chr>\n3 Liberal Arts, Math & Science                  2013 – 2018 \"\"    Citrus … <chr>\n```\n\n\n:::\n:::\n\n\n\n\n# Work Experience\n\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n# A tibble: 3 × 5\n  what                                when                  with    where why   \n  <chr>                               <chr>                 <chr>   <chr> <list>\n1 Electrical Distribution Engineer II Dec 2022 – Present    Southe… <NA>  <list>\n2 Electrical Distribution Engineer I  June 2021 – Dec 2022  Southe… <NA>  <list>\n3 Distribution Engineering Intern     July 2020 – June 2021 Southe… <NA>  <list>\n```\n\n\n:::\n:::",
+    "supporting": [
+      "Resume_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

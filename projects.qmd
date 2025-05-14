@@ -1,0 +1,60 @@
+---
+title: "Projects (Work, School, Personal)"
+editor: visual
+---
+Below are selected projects that showcase my work in multiple fields. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive projects at work, school presentations, and personal fitness goals.
+
+## Project 1: Feeder Loading Forecast for Capital Planning
+
+**I cant share too much details as this is NERC and FERC restricted data and analysis therefore I will go briefly over what the project is**
+
+In this project, I analyzed historical and forecasted loading data (in amps) across distribution circuits to assess long-term capacity constraints. The objective was to help Southern California Edison management identify which feeders would exceed safe operating thresholds within a 10-year window—informing which circuits warranted proactive infrastructure upgrades.
+
+**Skills Demonstrated:**
+
+- **Electrical Engineering Analysis:** Interpreted load curves and circuit configurations.
+- **Forecast Modeling:** Created long-term ampacity projections using historical growth rates.
+- **Strategic Planning:** Linked load growth to capital improvement needs.
+- **Data Visualization:** Presented circuit load trends and risk flags to management.
+
+---
+
+## Project 2: HVAC System Sizing for Medical Facility
+
+**This project was my Senior Engineering Project while I was in mechanical engineering at Cal Poly Pomona, the data I have is on another laptop that I sold**
+
+As part of an undergraduate engineering design course, I evaluated heating loads (in watts) for a multi-zone medical facility to determine appropriate HVAC unit and duct sizing. Using climate data and occupancy patterns, I balanced energy efficiency with indoor air quality and regulatory standards.
+
+**Skills Demonstrated:**
+
+- **Thermal Load Calculations:** Applied heat transfer equations and ASHRAE standards.
+- **Systems Design:** Matched calculated heating requirements to HVAC equipment capacities.
+- **AutoCAD + Manual Drafting:** Prepared duct routing and component specifications.
+- **Engineering Documentation:** Delivered a professional-level design report and presentation.
+
+---
+
+## Project 3: Traffic Accidents Per Capita and Public Risk Analysis
+
+**This project was done during my MBA program within a data wrangling and data visualization course**
+
+This data-driven project combined U.S. Census population data with national traffic accident records to identify which counties experience the highest accident rates per capita. I explored social, infrastructure, and behavioral factors contributing to these risks and recommended interventions to help reduce accident rates.
+
+**Skills Demonstrated:**
+
+- **Data Wrangling in R:** Merged, cleaned, and normalized datasets across multiple sources.
+- **Per Capita Calculations:**  Standardized accident counts relative to population.
+
+---
+
+## Project 4: Cycling Performance Analysis Using Rolling Averages
+
+**I have tried my best to utilizing the data within training peaks to help me with my cycling performance**
+
+Using personal cycling data tracked via a power meter and synced to TrainingPeaks, I analyzed metrics over 10, 30, and 120-day rolling windows to assess training load, fatigue, and peak performance readiness. The goal was to inform optimal training blocks and recovery timing.
+
+**Skills Demonstrated:**
+
+- **Time Series Analysis:** Calculated Chronic Training Load (CTL), Acute Load (ATL), and Training Stress Balance (TSB).
+- **Self-Experimentation:** Used results to optimize personal race preparation strategies.
+- **Data Visualization:** Created interactive performance plots using R and ggplot2

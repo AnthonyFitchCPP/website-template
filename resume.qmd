@@ -2,54 +2,74 @@
 title: "Résumé"
 ---
 
-```{r knit-resume, echo=FALSE, message=FALSE}
-rmarkdown::render(
-  "resume/Resume.Rmd",
-  output_format = "pdf_document",
-  output_file   = "Resume.pdf",
-  output_dir    = "resume",
-  quiet         = TRUE
-)
-```
 
 You can view a PDF version of my résumé [here](resume/Resume.pdf).
 
 # Professional Summary
 
-Results-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.
+Results-oriented electrical distribution engineer with a strong foundation in power systems analysis, engineering design, and utility operations. Skilled in leading the development of capital projects, performing technical studies, and providing expert support to cross-functional teams at Southern California Edison. Passionate about grid resiliency, safety, and leveraging engineering innovation to meet future energy demands.
 
 # Technical Skills
 
-- **Programming Languages:** R, Python, SQL, etc.  
-- **Web Technologies:** HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools
+- **Engineering Software**: CYME Power Engineering Software, Microsoft Visio, Microsoft Access  
+- **Data Tools**: Microsoft Excel (Pivot Tables), Tableau 10, R Studio 
+- **Programming & Web**: Python, R, Quarto 
+- **Certifications**: DETP Certification (SCE), LinkedIn Learning Certificates – Fall/Spring 2024  
 
 # Education
 
-| Degree                             | Year                          | College / Department                 | Institution         |
-| ---------------------------------- | ----------------------------- | ------------------------------------ | ------------------- |
-| [Your Degree]                     | [Start – Graduation Year]     | [Your College or Department]        | [Your University]   |
-| [Previous Degree or Certification] | [Start – End Year]            | [Your College or Department]        | [Your University]   |
+
+**Masters of Business Administration**  
+*California State Polytechnic University, Pomona*  
+2023 – 2026  
+GPA: 3.90
+
+**Bachelor of Science in Mechanical Engineering**  
+*California State Polytechnic University, Pomona*  
+2018 – 2021  
+GPA: 3.31
+
+**Associate in Liberal Arts, Math & Science**  
+*Citrus College, Glendora, CA*  
+2013 – 2018  
+GPA: 3.25
 
 # Work Experience
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+### **Electrical Distribution Engineer II**, Southern California Edison 
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Responsibility or accomplishment #3]  
-- [Technical tools, collaboration, or outcomes]  
-- [Any metrics, impacts, or stakeholder involvement]
+*\[Dec 2022 – Present\]*
 
----
+  
+- Provide technical support to internal and external customers as a subject matter expert on the distribution system.  
+- Lead the development, interpretation, and application of engineering standards and designs.  
+- Deliver technical support and troubleshooting for complex electrical distribution issues.  
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+------------------------------------------------------------------------
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Team leadership, training, or development]  
-- [Projects involving marketing, data, or web technologies]  
-- [Toolset used or strategies implemented]
+### **Electrical Distribution Engineer I**, Southern California Edison
 
----
+*\[June 2021 – Dec 2022\]*
+
+- Designed 12kV distribution feeder circuits and capital projects to address load growth and improve infrastructure.  
+- Conducted short circuit duty analysis, load flow, arc flash, and duct bank heating studies.  
+- Supported departments including Planning, Troublemen, Foremen, Apparatus, and Operations.
+
+------------------------------------------------------------------------
+### **Distribution Engineering Intern**, Southern California Edison  
+
+*\[July 2020 – June 2021\]*
+
+- Assisted with voltage analysis and short circuit evaluations.  
+- Supported capital project planning and feasibility assessments.  
+
+------------------------------------------------------------------------
+
+## Core Competencies
+
+- Power system engineering and analysis  
+- Technical research and reporting  
+- Cross-departmental collaboration and leadership  
+- Engineering standards development  
+- Communication and stakeholder engagement  
+- Innovation and continuous learning  
